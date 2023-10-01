@@ -1,0 +1,24 @@
+[project]
+name = "keycrypt"
+version = "1.0.0"
+authors = [
+  { name="Sajad Khanbabaie", email="khanbabaie.sa@gmail.com" },
+]
+description = "This package helps you to call secret words used in your script (such as passwords) with the help of Environment Variables without specifying it."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/sajad-git/keycrypt"
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry.dependencies]
+cryptography = "^41.0.1"
