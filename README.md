@@ -5,7 +5,7 @@ PySQL is a Python library for interacting with SQL Server databases. It provides
 </p>
 
 <p align="center">
-  <img src="https://github.com/sajad-git/PySQL/blob/crawler/readme/lugu.jpg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/sajad-git/keycrypt/blob/crawler/readme/lugu.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 <br>
 ## Installation
