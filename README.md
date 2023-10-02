@@ -42,7 +42,6 @@ set_secret(name='gmail_pass' , value='your_password')
 
 ### get_secret:
 all the next time you can just call your password with it's name. so :
-+ Create a connection
 ```python
 set_secret(name='gmail_pass') # --> returns 'your_password'
 ```
