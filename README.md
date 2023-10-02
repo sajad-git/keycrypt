@@ -46,7 +46,11 @@ all the next time you can just call your password with it's name. so :
 ```python
 set_secret(name='gmail_pass') # --> returns 'your_password'
 ```
-## sample:
+## usage sample:
+<p align="center">
+  <img src="https://github.com/sajad-git/keycrypt/blob/crawler/readme/sample_code.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
+
 <p align="center">
   <img src="https://github.com/sajad-git/keycrypt/blob/crawler/readme/env.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
